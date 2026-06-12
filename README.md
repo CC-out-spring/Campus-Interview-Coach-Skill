@@ -8,6 +8,11 @@
 
 <br />
 
+<img src="./skills/campus-interview-coach-zh/image" width="520" />
+
+<br />
+<br />
+
 ![Interview](https://img.shields.io/badge/Interview-Coach-blue)
 ![Language](https://img.shields.io/badge/Language-中文-red)
 ![Campus](https://img.shields.io/badge/Scope-校招%20%7C%20实习%20%7C%20Early--career-green)
@@ -176,6 +181,7 @@ Campus-Interview-Coach-Skill/
 └── skills/
     └── campus-interview-coach-zh/
         ├── SKILL.md
+        ├── image
         ├── agents/
         │   └── openai.yaml
         └── references/
