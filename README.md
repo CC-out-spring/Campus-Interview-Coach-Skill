@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oren Campus Interview Coach Skill
+# Interview Coach Skill
 
 ### 面试完回听录音，才知道自己刚才在说什么。
 
