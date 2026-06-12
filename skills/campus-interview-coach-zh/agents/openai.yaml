@@ -1,0 +1,4 @@
+interface:
+  display_name: "Campus Interview Coach ZH"
+  short_description: "JD analysis, interview debriefs, and mocks"
+  default_prompt: "Use $campus-interview-coach-zh to debrief this interview transcript, extract interviewer questions, summarize my answers, and give direct Chinese feedback with next-answer upgrades."
